@@ -6,3 +6,4 @@
 - [Task Mermaid](/task_mermaid.md)
 - [Task Game](/BrawlStars.md)
 - [BashCli](/bash_cli.md)
+- [Bashscripting](/bashscripting/)

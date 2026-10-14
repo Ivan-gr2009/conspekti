@@ -8,3 +8,5 @@
 - [BashCli](/bash_cli.md)
 - [Bashscripting](/bashscripting/)
 - [Git](/Git.md)
+- [Статический сайта на GitHub Pages]
+

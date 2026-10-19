@@ -8,5 +8,5 @@
 - [BashCli](/bash_cli.md)
 - [Bashscripting](/bashscripting/)
 - [Git](/Git.md)
-- [Статический сайта на GitHub Pages]
-
+- [Статический сайта на GitHub Pages](https://ivan-gr2009.github.io/site_static/)
+- 

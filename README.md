@@ -8,6 +8,6 @@
 - [BashCli](/bash_cli.md)
 - [Bashscripting](/bashscripting/)
 - [Git](/Git.md)
-- [Статический сайта на GitHub Pages](https://ivan-gr2009.github.io/site_static/)
-- [Совместный сайт](https://skapty6260.github.io/collab_test/) 
+- [Статический сайта на GitHub Pages](https://github.com/Ivan-gr2009/site_static)
+- [Совместный сайт](https://github.com/skapty6260/collab_test) 
 - [Учитель](https://gitflic.ru/project/rurewa/mfua)

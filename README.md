@@ -10,4 +10,4 @@
 - [Git](/Git.md)
 - [Статический сайта на GitHub Pages](https://github.com/Ivan-gr2009/site_static)
 - [Совместный сайт](https://github.com/skapty6260/collab_test) 
-- [Учитель](https://gitflic.ru/project/rurewa/mfua)
+- [Репозиторий учителя](https://gitflic.ru/project/rurewa/mfua)

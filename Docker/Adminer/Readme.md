@@ -37,7 +37,7 @@ docker run -d \
   -p 8085:8080 \
   adminer:latest
 ```
-![1](/img/Code_iDvqwxcU53.png)
+![1](/img/Code_aeYkLTMF3O.png)
 [Откройте: http://localhost:8085](http://localhost:8085)
 
 

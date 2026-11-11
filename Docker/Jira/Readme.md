@@ -1,4 +1,4 @@
-## Jira (что-то не запускается)
+## Jira 
 
 Выполните все этапы работы с проектом по примеру с [Nginx](/content/Docker/ImageLibrary/Nginx.md)
 

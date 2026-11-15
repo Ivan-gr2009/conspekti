@@ -38,10 +38,14 @@ docker ps -a
 ```shell
 docker stop competent_sinoussi
 ```
+![2](/img/Code_t4AudR3250.png)
+
 удаляем контейнер
 ```shell
 docker rm competent_sinoussi
 ```
+![3](/img/Code_OejqjeesJ5.png)
+
 получаем имя образа
 ```shell
 docker images
@@ -50,6 +54,7 @@ docker images
 ```shell
 docker image rm ghcr.io/libredb/libredb-studio:latest
 ```
+![4](/img/Code_QDtIWfHdAw.png)
 
 ### Полезные ссылки
 

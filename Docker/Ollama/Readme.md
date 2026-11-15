@@ -6,11 +6,13 @@
 ```shell
 docker run -d -v ollama_data:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
 ```
-!
+![1](image.png)
 
 ```shell
 docker exec -it ollama ollama run phi4
 ```
+![2](image-1.png)
+
 выйти из командного режима нейросети:
 ```shell
 /exit
@@ -30,6 +32,7 @@ docker run -d -p 3000:8081 -v ollama:/root/.ollama -v open-webui:/app/backend/da
 [Открыть чат в браузере](http://localhost:3000)
 или
 [Открыть чат в браузере](http://0.0.0.0:3000)
+![3](image-2.png)
 
 или через другой порт:
 ```shell
@@ -50,4 +53,5 @@ docker exec -it open-webui ollama pull llama3.2:1b
 ```shell
 docker exec -it open-webui ollama list
 ```
+![4](image-3.png)
 

@@ -54,7 +54,11 @@ docker run -d \
   httpd:alpine
 ```
 
+![alt text](image.png)
+
 [Откройте: http://localhost:8081](http://localhost:8081)
+
+![alt text](image-1.png)
 
 Для изменения содержимого `index.html` выполните его редайтирование в **VS Code** из папки `my-site` на вашем компьютере (не внутри контейнера!)
 
